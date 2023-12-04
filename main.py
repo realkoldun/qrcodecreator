@@ -4,7 +4,6 @@ from background import keep_alive
 from PIL import Image
 from pyzbar.pyzbar import decode
 
-token = '5995007189:AAFu6lbWtfKwp2QwYlvCaAP7enU9u12QRDs'
 filename = "qr.png"
 err = "Не удалось расшифровать QR Code"
 image = 'image.jpg'
